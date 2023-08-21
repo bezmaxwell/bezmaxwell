@@ -1,11 +1,10 @@
 [![Maxwell's GitHub Banner](./assets/github-banner.png)](https://github.com/bezmaxwell)
 
-- 👀 Seeking entry level Software Developer position
-- 🎓 Graduated with BSc in Computer Science from Estácio 2024
-- 🌱 I’m currently learning AWS
-- 🛠  I’m working on  [Trackit - Issue and Project management system](https://github.com/Jenil-Vekaria/Trackit)
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/bezmaxwell/)
-- ⭐ Check out my [portfolio website](https://jenil-vekaria.netlify.app/) 
+- 👀 Android Developer position remote. Seeking for remote job: EU,UK,Europe.
+- 🎓 Graduation Computer Science from Estácio 2024
+- 🌱 I’m currently ,learning android patterns,new features in android
+- 🛠  I’m working on  [Rent Car - Rent Car control](https://github.com/bezmaxwell/rentcar)
+- 📫 Find me on [LinkedIn]([https://www.linkedin.com/in/bezmaxwell/](https://www.linkedin.com/in/maxwell-chaves-68654b1a0/)
 
 ## Skills
 
@@ -40,6 +39,7 @@
   <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=for-the-badge" height="25">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge" height="25">
   <img alt="" src="" height="25">
+    
 </div>
 
 ## Stats
