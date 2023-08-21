@@ -43,7 +43,7 @@
 </div>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezmaxwell/langs_count=4&hide=jupyter%20notebook&theme=radical)](https://github.com/bezmaxwell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezmaxwell&langs_count=4&hide=jupyter%20notebook&theme=radical)](https://github.com/bezmaxwell/github-readme-stats)
 ![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=bezmaxwell&show_icons=true&theme=radical)
 
 ![Hits](https://hits.sh/github.com/bezmaxwell.svg?style=for-the-badge&label=Profile%20Views&color=e05d44)
