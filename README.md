@@ -1,4 +1,5 @@
-(<img src="./assets/github-banner.png" width="500" height="200"> (https://github.com/bezmaxwell)
+<img src="./assets/github-banner.png" width="500" height="200">
+https://github.com/bezmaxwell
 
 - 👀 Android Developer position remote. Seeking for remote job: EU,UK,Europe.
 - 🎓 Graduation Computer Science from Estácio 2024
