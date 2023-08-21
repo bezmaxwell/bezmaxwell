@@ -1,4 +1,4 @@
-[![Maxwell's GitHub Banner](./assets/github-banner.png) {width=500px height=200px}](https://github.com/bezmaxwell)
+[![Maxwell's GitHub Banner](./assets/github-banner.png width=500px height=200px)](https://github.com/bezmaxwell)
 
 - 👀 Android Developer position remote. Seeking for remote job: EU,UK,Europe.
 - 🎓 Graduation Computer Science from Estácio 2024
